@@ -1,7 +1,6 @@
-# FIS
 Sistema Inteligente de Gestão de Fluxo
 
-# SIF - Controle de Ocupação IoT
+# SIF
 
 Esse projeto nasceu de uma necessidade real no chão de fábrica da **Bom Leite**. A ideia foi criar um sistema automático e de baixo custo (gastamos uns R$ 170 no total) para monitorar quantas pessoas estão na área de produção ao mesmo tempo, sem precisar de alguém contando na porta.
 
